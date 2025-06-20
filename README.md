@@ -1,6 +1,3 @@
-Here's a professional `README.md` file for your **Vehicle Management System using JDBC and Spring MVC** project:
-
----
 
 # 🚗 Vehicle Management System (JDBC + Spring MVC)
 
