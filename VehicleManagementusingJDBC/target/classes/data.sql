@@ -1,0 +1,10 @@
+DROP TABLE IF EXISTS vehicle;
+
+CREATE TABLE vehicle (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    make VARCHAR(50) NOT NULL,
+    model VARCHAR(50) NOT NULL,
+    year INT NOT NULL,
+    price DOUBLE NOT NULL
+);
+
