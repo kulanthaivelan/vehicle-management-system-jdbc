@@ -71,7 +71,7 @@ CREATE TABLE vehicles (
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/vehicle-management-jdbc.git
+git clone https://github.com/kulanthaivelan/vehicle-management-system-jdbc.git
 cd vehicle-management-jdbc
 ```
 
